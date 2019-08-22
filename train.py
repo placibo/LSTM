@@ -1,4 +1,4 @@
-#train function
+#train function test
 def train(train_dataset,iters=1000,batch_size=20):
     #initalize the parameters
     parameters = initialize_parameters()
