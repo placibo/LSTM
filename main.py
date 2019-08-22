@@ -3,7 +3,7 @@ import pandas as pd              #for data manipulation
 import matplotlib.pyplot as plt  #for visualization
 
 
-#data given and provided
+#data given and test
 path = r'./input/NationalNames.csv'
 data = pd.read_csv(path)
 
