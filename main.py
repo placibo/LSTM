@@ -112,3 +112,5 @@ beta1 = 0.90
 
 #beta2 for S parameters used in Adam Optimizer
 beta2 = 0.99
+
+#Working
